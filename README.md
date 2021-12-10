@@ -8,7 +8,7 @@ Let's start:
 - 🌱 I’m currently learning React and UX.
 - 👯 I’m looking to collaborate on Turbodega.
 - 🤔 I’m looking for help with (I don't Know XD)
-- 💬 Ask me about food
+- 💬 Ask me about ...
 - 📫 How to reach me: phuaripayta@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -17,7 +17,7 @@ Let's start:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaolaS2992&show_icons=true&theme=buefy">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaS2992&layout=compact&theme=buefy">
 </div>
-
+        <br>
 <div style="display: inline-block">
     <img height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img height="30" width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -27,7 +27,9 @@ Let's start:
     <img height="30" width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
     <img height="30" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-
-
+        <br>
+<div>
+    <a target="_blank" href="linkedin.com/in/phuaripayta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
 
