@@ -1,15 +1,15 @@
 ### Hi Everyone 👋 
 
-**I'm Paola Sonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Paola Sonia** is a ✨ _special_ ✨ space because, I want to share my repository and my progress in technology.
 
-Here are some ideas to get you started:
+Let's start:
 
 - 🔭 I’m currently working on integration.
 - 🌱 I’m currently learning React and UX.
 - 👯 I’m looking to collaborate on Turbodega.
 - 🤔 I’m looking for help with (I don't Know XD)
 - 💬 Ask me about food
-- 📫 How to reach me: ...
+- 📫 How to reach me: phuaripayta@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
