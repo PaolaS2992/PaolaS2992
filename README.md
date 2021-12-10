@@ -29,7 +29,7 @@ Let's start:
 </div>
         <br>
 <div>
-    <a target="_blank" href="linkedin.com/in/phuaripayta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/phuaripayta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 
