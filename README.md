@@ -31,7 +31,7 @@ Let's start:
 </div>
         <br>
 <div>
-    <a target="_blank" href="https://gitlab.com/PaolaSonia"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"></a>
+    <a href="https://gitlab.com/PaolaSonia" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"></a>
     <a target="_blank" href="https://www.linkedin.com/in/phuaripayta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a target="_blank" href="https://paolasonia.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
     <a target="_blank" href="https://twitter.com/pao_pshg"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
